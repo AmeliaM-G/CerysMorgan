@@ -11,3 +11,9 @@ h1{
 .heading{
   background-color: #011100;
 }
+.contact{
+  background-color: #122211;
+}
+img{
+  border-radius: 50%;
+}
