@@ -1,0 +1,13 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  Background-color: #233322;
+  color:#FFFFFF;
+}
+h1{
+  font-size: 60px;
+  font-family:monospace;
+}
+.heading{
+  background-color: #011100;
+}
