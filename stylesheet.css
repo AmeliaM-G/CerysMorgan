@@ -14,7 +14,7 @@ body{
 
 .button{
   border: none;
-  background-color: #0B5345;
+  background-color: #04473A;
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -22,7 +22,7 @@ body{
 }
 
 .button:hover {
-  background-color: #3e8e41;
+  background-color: #16A085;
 }
 
 .heading{
@@ -32,7 +32,7 @@ body{
   color: white;
 }
 
-.name{
+.title{
   margin:0px;
 }
 
@@ -42,7 +42,7 @@ body{
 }
 
 .email{
-  margin:0px;
+  margin-top:0px;
 }
 
 img{
