@@ -13,6 +13,8 @@ body{
 }
 
 .button{
+  padding: none;
+  margin: none;
   border: none;
   background-color: #04473A;
   color: white;
@@ -27,9 +29,17 @@ body{
 
 .heading{
   background-color: #0B5345;
-  font-size: 30px;
+  font-size: 40px;
   font-family:monospace;
+  text-align: center;
   color: white;
+  background-image: url('Art/sunflowers/sunflowers.JPG');
+  background-attachment: relative;
+  background-size: 110%;
+  background-position: center;
+  margin: none;
+  border: none;
+  padding: none;
 }
 
 .title{
