@@ -4,7 +4,7 @@ body{
   color:#0B5345 ;
   Background-color:#D0ECE7;
   text-align: center;
-  font-family: Geneva;
+  font-family: 'Poiret One', cursive;
   font-size:20px;
 }
 
@@ -30,7 +30,6 @@ body{
 .heading{
   background-color: #0B5345;
   font-size: 40px;
-  font-family:monospace;
   text-align: center;
   color: white;
   background-image: url('Art/sunflowers/sunflowers.JPG');
